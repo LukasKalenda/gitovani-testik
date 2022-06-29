@@ -1,1 +1,0 @@
-console.log("Smazano vše predtim, rdy to push to master");
